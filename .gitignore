@@ -1,0 +1,8 @@
+# x_ray_400_processed
+# DEFECT_DATASET
+# results
+
+*.jpg
+*.png
+*.txt
+*.cache
